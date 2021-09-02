@@ -54,24 +54,46 @@ On land, the plant’s success and distribution has also led to its critical ris
 
 Despite the transformation of the plant from a weedy vine growing on roadsides and in deep thickets to an influential commodity, traded for the chemicals in its roots, western botanists continue to represent *Dioscorea* as a leafy specimen on herbaria sheets. This kind of botanical representation, for a plant that has been at the center of bioprospecting campaigns for almost a century, fails to communicate the ongoing entanglement of a plant exploited, not for botanical interest, but economic gain. By redrawing the plant with its attendant agents - from the mortal and pestle that indigenous women used to create medicine, to the trowels used by Marker to collect the root, to the laboratory equipment used to isolate diosgenin, and the birth control pill that resulted from Marker’s experiments in the genus, with diosgenin flowing from its roots to the global oceans, we understand the reach of the plant, from the eastern United States around the globe. 
 
+### References
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[^ref1]: E.W. Hervey. North America: US and Canada (Region): United States of America: Massachusetts: Bristol County: New Bedford. 1903.
+[^ref2]: North American Native Plant Society. “*Dioscorea villosa*, Wild yam.” North American Native Plant Society. Accessed March 27, 2021. 
+[^ref3]: Tucker, Arthur O. and Jules Janick. *Flora of the Codex Cruz-Badianus*. Cham: Springer International Publishing, 2020.
+[^ref4]: Tucker, *Flora*. 
+[^ref5]: Forster, J.R. *Flora Americae Septentrionalis*. Boston: B. White, 1771.
+[^ref6]: Plumier, Charles. *Nova plantarum americanum*. Paris: Regis and Regix Scientiatum Academiae Typrographum, 1703.
+[^ref7]: Delgado, Gian Carlo. “Biopiracy and Intellectual Property as the Basis for Biotechnological Development: The Case of Mexico.” *International Journal of Politics, Culture and Society* 16, no. 2 (2002): 297-318.
+[^ref8]: Schiebinger, Londa. *Plants and Empire: Colonial Bioprospecting in the Atlantic World*. Cambridge, MA: Harvard University Press, 2004.
+[^ref9]: Laveaga, Gabriela Soto. *Jungle laboratories: Mexican peasants, national projects and the making of the pill.* Durham: Duke University Press, 2009.
+[^ref10]: Sievers, A.F. *The Herb Hunter’s Guide*. Misc. Publication No. 77. Washington, D.C.: USDA, 1930.
+[^ref11]: Milspaugh, Charles Frederick. *American medicinal plants: an illustrated and descriptive guide to the American plants used as homeopathic remedies: their history, preparation, chemistry and physiological effects*. New YorK: Boericke and Tafel. 
+[^ref12]: Wall, Otto A. *A Handbook of Pharmacognosy*. St. Louis, MO: C.V. Mosby Co., 1917.
+[^ref13]: American Chemical Society and Sociedad Quimica de Mexico. *The “Marker Degradation” and the Creation of the Mexico Steroid Hormone Industry 1938-1945*. University Park, PA: American Chemical Society, 1999.
+[^ref14]: Tsukamoto, T., Y. Ueno ad Z. Ota. “Constitution of diosgenin. I. Glucoside of Dioscorea Tokoro Makino.” *Journal of the Pharmaceutical Society of Japan* 56 (1936): 931-940. 
+[^ref15]: Marker, R.E., D.L. Turner, P.R. Ulshafer. “Sterols. CIV. Diosgenin from certain America plants.” *Journal of the American Chemical Society* 62 (September 1940): 2542-2543. 
+[^ref16]: Russell Earl Marker, interviewed by Sturchio, Jeffrey L. in Pennsylvania State University on April 17, 1987. Philadelphia: Science History Institute, n.d. Oral History Transcript 0068. 
+[^ref17]: Marker, Russell E., R.B. Wagner and Paul R. Ulshafer. “Sterols. CXLVI. Sapogenins. LX. Some New Sources of Diosgenin.” *Journal of American Chemical Society* 64 (1942):1283-1285. 
+[^ref18]: Lehmann, Pedro. “Early History of Steroid Chemistry in Mexico: the story of three remarkable men.” *Steroids* 57, no. 8 (1992): 403-408.  
+[^ref19]: Laveaga, *Jungle*. 
+[^ref20]: Lehmann, "Steroid."
+[^ref21]: Govaerts, R., Wilkin P. and Saunders, R.M.K. *World Checklist of Dioscoreales:Yams and their allies*. Kew: The Board of Trustees of the Royal Botanic Gardens, 2007. 
+[^ref22]: Laveaga, *Jungle*. 
+[^ref23]: Lehmann, "Steroid."
+[^ref24]: American Chemical Society, "Marker." 
+[^ref25]: Laveaga, *Jungle*.
+[^ref26]: Hayden, Cory. *When Nature Goes Public: The Making and Unmaking of Bioprospecting in Mexico*. Princeton: Princeton University Press, 2020. 
+[^ref27]: Gereffi, Gary. *The Pharmaceutical Industry and Dependency in the Third World.* Princeton: Princeton University Press, 2017. 
+[^ref28]: Marker, "Oral History."
+[^ref29]: Laveaga, *Jungle*.
+[^ref30]: Chapela, Ignacio. “Biodiversity in the Age of Information: A Critical Analysis of Conservation Initiatives Associated with the Discovery of New Pharmaceuticals.” In *Biodiversity, Biotechnology, and Sustainable Development in Health and Agriculture: Emerging Connections*. Washington, D.C.: Panamerian Health Organization, 1996.
+[^ref31]: Marker, "Oral History." 
+[^ref32]: Hayden, *Nature*. 
+[^ref33]: Syntex. *Syntex Annual Report*. Mexico City: Syntex Laboratorios, 1963.
+[^ref34]: Planned Parenthood. *The Birth Control Pill: A History*. New York: Planned Parenthood, 2005.  
+[^ref35]: Watkins, Elizabeth Siegel. *On the pill: a social history of oral contraceptives, 1950-1970*. Baltimore: John Hopkins University press, 1998. 
+[^ref36]: Planned Parenthood, *Birth Control*.
+[^ref37]: Zava. “Contraception around the world: interactive map.” *Online Doctor*. May 5, 2014. Accessed online April 19, 2021.
+[^ref38]: Beauchamp, Zack. “Here’s a map of the countries where the pill is fully subsidized (it includes Iran).” *Vox*. June 30, 2014. Accessed April 19, 2021. 
+[^ref39]: Caldwell et al. “An Assessment of Potential Exposure and risk from Estrogens in Drinking Water.” *Environmental Health Perspectives* 118, no. 3 (2010): 338-344.
+[^ref40]: Fisher, Carl, Claudia Martins, Ed George and Pranathi Perati. “Expanded Analysis of Human Hormones in Drinking Water Using Solid-Phase Extraction and Liquid Chromatography Tandem Mass Spectronomy.” *ThermoFisher Scientific*. 2009.
+[^ref41]: Pengelly, Andrew. “Dioscorea villosa L. Wild yam.” *Appalachian Plant Monographs*. Tai Sophia Institute Appalachian Center for Ethnobotanical Studies. 2011. 
