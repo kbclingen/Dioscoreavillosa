@@ -7,7 +7,7 @@
 
 The slender leaves of a specimen of *Dioscorea villosa* are pressed, preserved, labeled and stored in the Harvard University Herbaria, collected in Massachusetts in 1903.[^ref1] The winged seedpods are flattened between the leaves, and the vine dried, turning from a bright, light green to faded brown. Though the herbaceous plant, informally known as wild yam, can grow up to 30 feet, the herbarium sample is much shorter, coiled onto itself to fit onto the standardized paper for botanists and other researchers to study.
 
-<param ve-image url="dv_herbarium.jpg">
+<param ve-image url="dv_herbarium.jpg"
        label="Dioscorea specimen collected in western Massachusetts by V.E. Hervey and stored in the Harvard University Herbaria."
        author="Hervey, V.E., 1903"
        region="-272,305,3275,2546">
@@ -15,7 +15,7 @@ The slender leaves of a specimen of *Dioscorea villosa* are pressed, preserved, 
 While the plant is native and widespread across the eastern United States, the roots, which are omitted from the sample, have been used in indigenous and modern medicine for hundreds of years, and have reshaped landscapes and water bodies across the globe.[^ref2] 
 
 ### Representing the Roots
-<param ve-image url="dv_badianus.png">
+<param ve-image url="dv_badianus.png"
        label="Dioscorea villosa as represented in the Badianus Manuscript."
        author="de Grado, Jacobo, 1552"
        region="-272,305,3275,2546">
@@ -26,14 +26,14 @@ The roots and leaves are drawn with an equal emphasis. From its representation, 
 
 ### What's in a Family Name? 
 *Dioscorea villosa* was used by indigenous peoples in central America for centuries before it was catalogued by colonial botanists. In 1796, J.R. Forster published his *Flora Americae Septentrionalis*, which included *Dioscorea villosa* by name, noting a sample in Virginia.[^ref5] The genus *Dioscorea* itself was first named by colonizers. Charles Plumier, a French botanist, bioprospected the western Caribbean in 1703, and published his results, including species in the genus *Dioscorea* in *Nova plantarum americanum*.[^ref6]  
-<param ve-image url="dv_nova.png">
+<param ve-image url="dv_nova.png"
        label="Charles Plumier's representation of Dioscorea, created during his bioprospecting trip to the western Caribbean in 1703."
        author="Plumier, Charles, 1703."
        region="-272,305,3275,2546">
 Bioprospecting emerged in the 18th century as European imperialist states and companies sent botanists to the Americas to selectively explore and investigate species for the purpose of finding commercially valuable botanical resources. As Gian Carlo Delgado writes about the practice in the Mexican context, bioprospecting, “relies on the knowledge of rural and indigenous communities that have established an intimate relationship with nature since precapitalist times.”[^ref7] Botany became another tool of colonial expansion in the 18th century that continues to this day.[^ref8]
 
 Botanists like Plumier relied on local knowledge to collect samples and knowledge of plant species to catalog, and even to inform the nomenclature they used to classify plants. Plumier named the genus *Dioscorea* after the Greek physician and botanist Dioscorides, who published his work on medicinal plants in *De materia media*, an herbal encyclopedia that was used in European medicine from its creation in 1754.[^ref9]
-<param ve-image url="dv_millspaugh.png">
+<param ve-image url="dv_millspaugh.png"
        label="Charles Millspaugh's illustration of the vine."
        author="Millspaugh, Charles Frederick, 1887."
        region="-272,305,3275,2546">
@@ -41,20 +41,20 @@ Botanists like Plumier relied on local knowledge to collect samples and knowledg
 American botanists continued to extract information from indigenous groups and publish about the medicinal uses of the species, and, like the Badianus manuscript, to focus on the uses of the roots. In an 1887 volume of *American medicinal plants: an illustrated and descriptive guide to the American plants used as homeopathic remedies: their history, preparation, chemistry and physical effects*. Charles Frederick Millspaugh identifies additional uses of the plant including treating bilious colic, which we know as gallstones, as a way to induce sweating, cause vomiting and treat coughs. It’s also noted to treat ‘dysmennorhea’ and kindred afflictions, which we know as menstrual cramps.[^ref10] Milspaugh offers a method to extract a tonic from the roots, which are abundant and easy to collect. [^ref11]
 
 Otto Wall recorded the plant’s uses by indigenous communities in temperate climates. In the Great Lakes Region on Meskwaki land, the Meskwaki Nation used the plant to reduce pain during childbirth, and as an analgesic and reproductive aid.[^ref12]
-<param ve-image url="dv_wall.png">
+<param ve-image url="dv_wall.png"
        label="Otto Wall documented the plant's uses by the indigenous Meskwaki People."
        author="Wall, Otto, 1927."
        region="-272,305,3275,2546">
 
 While botanists had written extensively about the medicinal uses of *Dioscorea villosa* throughout the 18th and 19th centuries, the exploitation of Dioscorea, and other species in the genus, accelerated during the 20th century, as western nations raced to develop sex hormones. *Dioscorea villosa*, native to the eastern United States, would become a central figure in the global development of the birth birth control pill, which relied on massive biopiracy operations in Mexico, where the plant’s medicinal uses were first recorded. 
-<param ve-image url="dv_map1.jpg">
+<param ve-image url="dv_map1.jpg"
        label="A map of North America showing documented use of Dioscorea villosa by indigenous people, as noted in the Badianus Manuscript and Otto Wall's Handbook of Pharmacognosy in 1927."
        author="Kira Clingen, 2021."
        region="-272,305,3275,2546">
 
 ### Degradation: From Marker's lab to the Mexican landscape 
 In 1938, Russell E. Marker, a chemist working at Pennsylvania State University, successfully synthesized progesterone, a sex hormone, from sapogenin, a naturally occurring compound in sarsaparilla, a herbaceous plant native to the eastern United States where Marker was working. Progesterone had been discovered by doctors earlier in the 1930s, who used the sex hormone to treat menstrual disorders and pregnancies. The process, the Marker degradation, was named for him.[^ref13] But synthesizing progesterone from sarsaparilla was prohibitively expensive, and Marker knew he needed a different natural resource to make progesterone more affordable. The answer came to him from Japanese colleagues, who discovered a compound called diosgenin, which they extracted from the roots of Dioscorea tokoro, a wild yam species abundant in eastern Asia.[^ref14] Their paper sent Marker to the Penn State library to study botany in search of a widely distributed source of diosgenin. Marker found his answer outside his laboratory in the roots of *Dioscorea villosa*.
-<param ve-image url="dv_plant.jpg">
+<param ve-image url="dv_plant.jpg"
        label="Dioscorea villosa in the wild in its native eastern United States, used with permission from the University of Minnesota archives."
        author="C.J. Hibbard, 1900."
        region="-272,305,3275,2546">
@@ -74,7 +74,7 @@ The Mexican steroid industry also reshaped the Mexican landscape. Over the years
 Marker himself was only involved in Syntex for a few years. He permanently moved back to the United States in 1956 after the United States established an embargo against Mexico, accusing the Mexican government and Syntex of monopolizing the market for diosgenin, the source of which was squarely within Mexico’s borders.[^ref32]
 
 ### From Plant to Pill 
-<param ve-image url="dv_map2.jpg">
+<param ve-image url="dv_map2.jpg"
        label="Map of the expanding geography influenced by Dioscorea villosa."
        author="Kira Clingen, 2021."
        region="-272,305,3275,2546">
@@ -83,7 +83,7 @@ In 1951, Carl Djerassi, working at Syntex, developed a synthetic progesterone pi
 The range of the *Dioscorea* genus expanded as lab tests began around the world through the late 1950s, with scientists breeding tubers with higher diosgenin concentrations to use to manufacture the pill. Around the world, clinical studies in Sri Lanka, the United States, Haiti, Hong Kong, Japan and Mexico began in 1960, and by 1961 half a million women were using the pill to regulate menstruation and pregnancy.[^ref36] Today, the pill is available across the globe, and is one of the most popular forms of contraceptive, despite ongoing attempts to regulate its usage.[^ref37][^ref38]
 
 ### Re-Rooting *Dioscorea villosa*
-<param ve-image url="dv_drawing.jpg">
+<param ve-image url="dv_drawing.jpg"
        label=""
        author="Kira Clingen, 2021."
        region="-272,305,3275,2546">
