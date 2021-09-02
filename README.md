@@ -1,5 +1,3 @@
-<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
-
 <param ve-config 
        title="Into the Wild Yam Thicket: the ongoing entanglement of Dioscorea villosa and Reproductive Health"
        author="Kira Bre Clingen"
