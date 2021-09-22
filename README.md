@@ -3,7 +3,7 @@
 <param ve-config 
        title="Into the Wild Yam Thicket: the ongoing entanglement of Dioscorea villosa and Reproductive Health"
        author="Kira Bre Clingen"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/6/60/Dv_banner.jpg" 
+       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/7/7d/Dioscorea_bulbifera_%28the_air_potato%29_06852.jpg" 
        layout="vertical"
        quality="gray">
 
@@ -20,7 +20,7 @@ While the plant is native and widespread across the eastern United States, the r
 <param ve-image url="dv_badianus.png"
        label="Dioscorea villosa as represented in the Badianus Manuscript."
        author="de Grado, Jacobo, 1552"
-       region="-272,305,3275,2546">
+       region="full">
        
 Long before the herbaria sample was plastered to a paper sheet, in 1552, Jacobo de Grado, a friar in New Spain wrote and translated the *Libellus de Medicinalibus Indorum Herbis, also known as the Badianus Manuscript*.[^ref3] The manuscript details the medicinal properties of plants used by the Aztec people. In this botanical archive, *Dioscorea villosa*, called *macayelli* in Nahautl, is referenced as an analgesic, or pain reducer, and drawn balanced between a three tuber root system underground and a complex vine laden with flowers and winged seed pods, which the plant uses to reproduce with help from flies in the genus Syrphidae.[^ref4]
 
