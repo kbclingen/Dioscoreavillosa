@@ -41,7 +41,7 @@ The roots and leaves are drawn with an equal emphasis. From its representation, 
 Bioprospecting emerged in the 18th century as European imperialist states and companies sent botanists to the Americas to selectively explore and investigate species for the purpose of finding commercially valuable botanical resources. As Gian Carlo Delgado writes about the practice in the Mexican context, bioprospecting, “relies on the knowledge of rural and indigenous communities that have established an intimate relationship with nature since precapitalist times.”[^ref7] Botany became another tool of colonial expansion in the 18th century that continues to this day.[^ref8]
 
 Botanists like Plumier relied on local knowledge to collect samples and knowledge of plant species to catalog, and even to inform the nomenclature they used to classify plants. Plumier named the genus *Dioscorea* after the Greek physician and botanist Dioscorides, who published his work on medicinal plants in *De materia media*, an herbal encyclopedia that was used in European medicine from its creation in 1754.[^ref9]
-<param ve-image url="dv_millspaugh.png"
+<param ve-image url="dv_millspaugh.PNG"
        label="Charles Millspaugh's illustration of the vine."
        author="Millspaugh, Charles Frederick, 1887."
        region="-272,305,3275,2546">
@@ -49,7 +49,7 @@ Botanists like Plumier relied on local knowledge to collect samples and knowledg
 American botanists continued to extract information from indigenous groups and publish about the medicinal uses of the species, and, like the Badianus manuscript, to focus on the uses of the roots. In an 1887 volume of *American medicinal plants: an illustrated and descriptive guide to the American plants used as homeopathic remedies: their history, preparation, chemistry and physical effects*. Charles Frederick Millspaugh identifies additional uses of the plant including treating bilious colic, which we know as gallstones, as a way to induce sweating, cause vomiting and treat coughs. It’s also noted to treat ‘dysmennorhea’ and kindred afflictions, which we know as menstrual cramps.[^ref10] Milspaugh offers a method to extract a tonic from the roots, which are abundant and easy to collect. [^ref11]
 
 Otto Wall recorded the plant’s uses by indigenous communities in temperate climates. In the Great Lakes Region on Meskwaki land, the Meskwaki Nation used the plant to reduce pain during childbirth, and as an analgesic and reproductive aid.[^ref12]
-<param ve-image url="dv_wall.png"
+<param ve-image url="dv_wall.PNG"
        label="Otto Wall documented the plant's uses by the indigenous Meskwaki People."
        author="Wall, Otto, 1927."
        region="-272,305,3275,2546">
