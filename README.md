@@ -27,7 +27,7 @@ Long before the herbaria sample was plastered to a paper sheet, in 1552, Jacobo 
 The roots and leaves are drawn with an equal emphasis. From its representation, the reader understands that its medicinal qualities derive from the whole plant, not only what’s visible above ground. 
 
 <param ve-image url="dv_codex2.jpg"
-       label="Dioscorea villosa as represented in the Badianus Manuscript."
+       label="Dioscorea villosa represented in the Badianus Manuscript."
        author="de Grado, Jacobo, 1552"
        region="-147,179,737,624">
 
@@ -36,7 +36,8 @@ The roots and leaves are drawn with an equal emphasis. From its representation, 
 <param ve-image url="dv_nova.PNG"
        label="Charles Plumier's representation of Dioscorea, created during his bioprospecting trip to the western Caribbean in 1703."
        author="Plumier, Charles, 1703."
-       region="-272,305,3275,2546">
+       region="-141,17,710,602">
+       
 Bioprospecting emerged in the 18th century as European imperialist states and companies sent botanists to the Americas to selectively explore and investigate species for the purpose of finding commercially valuable botanical resources. As Gian Carlo Delgado writes about the practice in the Mexican context, bioprospecting, “relies on the knowledge of rural and indigenous communities that have established an intimate relationship with nature since precapitalist times.”[^ref7] Botany became another tool of colonial expansion in the 18th century that continues to this day.[^ref8]
 
 Botanists like Plumier relied on local knowledge to collect samples and knowledge of plant species to catalog, and even to inform the nomenclature they used to classify plants. Plumier named the genus *Dioscorea* after the Greek physician and botanist Dioscorides, who published his work on medicinal plants in *De materia media*, an herbal encyclopedia that was used in European medicine from its creation in 1754.[^ref9]
