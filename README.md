@@ -148,7 +148,7 @@ Despite the transformation of the plant from a weedy vine growing on roadsides a
 <param ve-image url="dv_drawing.jpg"
        label="Each character on the herbarium sheet graphically represents one aspect of the complex evolution of Dioscorea."
        author="Kira Clingen, 2021."
-       region="127,2,3444,2917">
+       region="-1189,0,5950,5039">
 
 ### References
 
