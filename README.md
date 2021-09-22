@@ -5,7 +5,7 @@
        author="Kira Bre Clingen"
        banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/3/36/Wild_yam_in_woods_-_young_plants.jpg" 
        layout="vertical"
-       region="422,37,1759,1367">
+       quality="bitonal">
 
 The slender leaves of a specimen of *Dioscorea villosa* are pressed, preserved, labeled and stored in the Harvard University Herbaria, collected in Massachusetts in 1903.[^ref1] The winged seedpods are flattened between the leaves, and the vine dried, turning from a bright, light green to faded brown. Though the herbaceous plant, informally known as wild yam, can grow up to 30 feet, the herbarium sample is much shorter, coiled onto itself to fit onto the standardized paper for botanists and other researchers to study.
 
