@@ -129,7 +129,14 @@ In 1951, Carl Djerassi, working at Syntex, developed a synthetic progesterone pi
 
 ### Re-Rooting *Dioscorea villosa*
 
-Situating the plant in this entanglement of reproductive hormones, policy and moving into the present, the story of *Dioscorea villosa* and its role in the development of the birth control pill becomes more complex. Global use of the pill has come with side effects, including an influx of progesterone and estrogen, another sex hormone used in many birth control pills, into municipal water systems, which are discharged in the absence of reverse osmosis systems. The estrogen flows through sewers into water bodies across the globe, finally flowing into the ocean and remaking the chemistry of our largest commons at a planetary scale, where increasing synthetic hormone levels impact the fertility of humans, marine and terrestrial animals alike.[^ref39][^ref40]
+Situating the plant in this entanglement of reproductive hormones, policy and moving into the present, the story of *Dioscorea villosa* and its role in the development of the birth control pill becomes more complex. 
+
+<param ve-image url="symbols-08.jpg"
+       label="Dioscorea villosa is hardy across eastern North America."
+       author="Kira Clingen"
+       region="1150,8,3612,3059">
+
+Global use of the pill has come with side effects, including an influx of progesterone and estrogen, another sex hormone used in many birth control pills, into municipal water systems, which are discharged in the absence of reverse osmosis systems. The estrogen flows through sewers into water bodies across the globe, finally flowing into the ocean and remaking the chemistry of our largest commons at a planetary scale, where increasing synthetic hormone levels impact the fertility of humans, marine and terrestrial animals alike.[^ref39][^ref40]
 
 <param ve-image url="dv_drawing.jpg"
        label="A new herbarium sheet enlarges the root to show its importance to the story of Dioscorea villosa around the globe."
