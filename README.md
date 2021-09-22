@@ -68,7 +68,7 @@ Otto Wall recorded the plant’s uses by indigenous communities in temperate cli
        region="-82,-42,588,498">
 
 While botanists had written extensively about the medicinal uses of *Dioscorea villosa* throughout the 18th and 19th centuries, the exploitation of Dioscorea, and other species in the genus, accelerated during the 20th century, as western nations raced to develop sex hormones. *Dioscorea villosa*, native to the eastern United States, would become a central figure in the global development of the birth birth control pill, which relied on massive biopiracy operations in Mexico, where the plant’s medicinal uses were first recorded. 
-<param ve-image url="dv_map2.jpg"
+<param ve-image url="dv_map2-01.jpg"
        label="While Wall documented the ways in which the Meskwaki Peoples used Dioscorea villosa in the early twentieth century, the race for sex hormones brought American bioprospectors into Mexico in the latter half of the century."
        author="Kira Clingen, 2021."
        region="1171,114,3341,2774">
