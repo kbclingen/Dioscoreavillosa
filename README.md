@@ -5,13 +5,14 @@
        author="Kira Bre Clingen"
        banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/6/60/Dv_banner.jpg" 
        layout="vertical"
-       quality="bitonal">
+       quality="gray">
 
 The slender leaves of a specimen of *Dioscorea villosa* are pressed, preserved, labeled and stored in the Harvard University Herbaria, collected in Massachusetts in 1903.[^ref1] The winged seedpods are flattened between the leaves, and the vine dried, turning from a bright, light green to faded brown. Though the herbaceous plant, informally known as wild yam, can grow up to 30 feet, the herbarium sample is much shorter, coiled onto itself to fit onto the standardized paper for botanists and other researchers to study.
 
 <param ve-image url="dv_herbarium.jpg"
        label="Dioscorea specimen collected in western Massachusetts by V.E. Hervey and stored in the Harvard University Herbaria."
-       author="Hervey, V.E., 1903">
+       author="Hervey, V.E., 1903"
+       region="-1248,332,6240,5285">
 
 While the plant is native and widespread across the eastern United States, the roots, which are omitted from the sample, have been used in indigenous and modern medicine for hundreds of years, and have reshaped landscapes and water bodies across the globe.[^ref2] 
 
