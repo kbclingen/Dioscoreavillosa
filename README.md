@@ -3,7 +3,7 @@
 <param ve-config 
        title="Into the Wild Yam Thicket: the ongoing entanglement of Dioscorea villosa and Reproductive Health"
        author="Kira Bre Clingen"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/3/36/Wild_yam_in_woods_-_young_plants.jpg&region=pct:0,10,80,70" 
+       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/3/36/Wild_yam_in_woods_-_young_plants.jpg" 
        layout="vertical"
        region="422,37,1759,1367">
 
