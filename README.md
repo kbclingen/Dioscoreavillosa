@@ -19,12 +19,17 @@ The slender leaves of a specimen of *Dioscorea villosa* are pressed, preserved, 
 ### Representing the Roots
 Long before the herbaria sample was plastered to a paper sheet, in 1552, Jacobo de Grado, a friar in New Spain wrote and translated the *Libellus de Medicinalibus Indorum Herbis, also known as the Badianus Manuscript*.[^ref3] The manuscript details the medicinal properties of plants used by the Aztec people. In this botanical archive, *Dioscorea villosa*, called *macayelli* in Nahautl, is referenced as an analgesic, or pain reducer, and drawn balanced between a three tuber root system underground and a complex vine laden with flowers and winged seed pods, which the plant uses to reproduce with help from flies in the genus Syrphidae.[^ref4]
 
-<param ve-image url="dv_badianus.PNG"
-       label="Dioscorea villosa as represented in the Badianus Manuscript."
+<param ve-image url="dv_codex1.jpg"
+       label="Medicinal macayelli, xoxouhqui chalchiutl and tlaquilin represented from roots to leaves in the Badianus manuscript."
        author="de Grado, Jacobo, 1552"
        region="1,0,395,335">
 
 The roots and leaves are drawn with an equal emphasis. From its representation, the reader understands that its medicinal qualities derive from the whole plant, not only what’s visible above ground. 
+
+<param ve-image url="dv_codex2.jpg"
+       label="Dioscorea villosa as represented in the Badianus Manuscript."
+       author="de Grado, Jacobo, 1552"
+       region="1,0,395,335">
 
 ### What's in a Family Name? 
 *Dioscorea villosa* was used by indigenous peoples in central America for centuries before it was catalogued by colonial botanists. In 1796, J.R. Forster published his *Flora Americae Septentrionalis*, which included *Dioscorea villosa* by name, noting a sample in Virginia.[^ref5] The genus *Dioscorea* itself was first named by colonizers. Charles Plumier, a French botanist, bioprospected the western Caribbean in 1703, and published his results, including species in the genus *Dioscorea* in *Nova plantarum americanum*.[^ref6]  
