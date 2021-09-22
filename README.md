@@ -49,7 +49,7 @@ Bioprospecting emerged in the 18th century as European imperialist states and co
 
 <param ve-image url="dv_pharma.jpg"
        label="Dioscorea villosa listed in Pharmaceutical botany: a text-book for students of pharmarcy and science by Heber W. Youngken, published in 1920."
-       region="-132,2,662,561">
+       region="-800,0,4000,3388">
 
 Botanists like Plumier relied on local knowledge to collect samples and knowledge of plant species to catalog, and even to inform the nomenclature they used to classify plants. Plumier named the genus *Dioscorea* after the Greek physician and botanist Dioscorides, who published his work on medicinal plants in *De materia media*, an herbal encyclopedia that was used in European medicine from its creation in 50 AD.[^ref9]
 
@@ -72,7 +72,7 @@ Otto Wall recorded the plant’s uses by indigenous communities in temperate cli
        region="-82,-42,588,498">
 
 While botanists had written extensively about the medicinal uses of *Dioscorea villosa* throughout the 18th and 19th centuries, the exploitation of Dioscorea, and other species in the genus, accelerated during the 20th century, as western nations raced to develop sex hormones. *Dioscorea villosa*, native to the eastern United States, would become a central figure in the global development of the birth birth control pill, which relied on massive biopiracy operations in Mexico, where the plant’s medicinal uses were first recorded. 
-<param ve-image url="dv_map2-01.jpg"
+<param ve-image url="dv_map2-01-01.jpg"
        label="While Wall documented the ways in which the Meskwaki Peoples used Dioscorea villosa in the early twentieth century, the race for sex hormones brought American bioprospectors into Mexico in the latter half of the century."
        author="Kira Clingen, 2021."
        region="1171,114,3341,2774">
@@ -107,7 +107,7 @@ World War II shortened Marker’s first collecting trip, and he returned in 1942
 
 In the United States, back at Penn State, he successfully synthesized progesterone from *Dioscorea mexicana*, but without American pharmaceutical interest, he moved to Veracruz and cofounded Syntex Laboratories in Mexico City in 1944, beginning the Mexican steroid industry, which would shape the global industry for years to come. 
 
-<param ve-image url="dv_map3-01.jpg"
+<param ve-image url="dv_map3-01-01.jpg"
        label="Marker crossed the border back into the United States with a single tuber to return to his laboratory at Penn State, before returning to Mexico and beginning Syntex Laboratorios SA in the capital."
        author="Kira Clingen, 2021."
        region="1171,114,3341,2774">
@@ -117,38 +117,38 @@ The Mexican steroid industry also reshaped the Mexican landscape. Over the years
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/da/Dioscorea_mexicana_1e.jpg"
        label="The massive roots of Dioscorea mexicana were harvested throughout Veracruz. Roads and other infrastructure were built to support the Mexican hormone industry across the state of Veracruz. Used under CC-4.0."
        author="Consultaplantas, 2018."
-       region="1171,114,3341,2774">
+       region="-4,-298,2570,2134">
 
 ### From Plant to Pill 
 In 1951, Carl Djerassi, working at Syntex, developed a synthetic progesterone pill, but did not develop it into a contraceptive.[^ref33] The next year, Gregory Pincus, funded by Katherine McCormick and Margaret Sanger of Planned Parenthood and working at the Massachusetts Institute of Technology (MIT), successfully synthesized a two-ingredient estrogen-progesterone pill in 1952. The invention had revolutionary implications for women around the globe. [^ref34] The clinical trials for the pill could not be conducted at MIT in Massachusetts without incurring a $1000 fine per trial, so the team began medical trials of the pill in Puerto Rico, on a series of trials that have been condemned for their lack of informed consent by today’s standards.[^ref35] The range of the *Dioscorea* genus expanded as lab tests began around the world through the late 1950s, with scientists breeding tubers with higher diosgenin concentrations to use to manufacture the pill. Around the world, clinical studies in Sri Lanka, the United States, Haiti, Hong Kong, Japan and Mexico began in 1960, and by 1961 half a million women were using the pill to regulate menstruation and pregnancy.[^ref36] Today, the pill is available across the globe, and is one of the most popular forms of contraceptive, despite ongoing attempts to regulate its usage.[^ref37][^ref38]
 
 <param ve-image url="https://tile.loc.gov/storage-services/service/pnp/ppmsca/71700/71792v.jpg"
        label="Birth control pills arrayed at a pharmacy in 1968 as the pill became readily available to women across the globe."
-       author="Marions Trikosko, 1968."
-       region="1171,114,3341,2774">
+       author="Marions Trikosko, 1968. Library of Congress."
+       region="22,-54,941,797">
 
 ### Re-Rooting *Dioscorea villosa*
 
 Situating the plant in this entanglement of reproductive hormones, policy and moving into the present, the story of *Dioscorea villosa* and its role in the development of the birth control pill becomes more complex. Global use of the pill has come with side effects, including an influx of progesterone and estrogen, another sex hormone used in many birth control pills, into municipal water systems, which are discharged in the absence of reverse osmosis systems. The estrogen flows through sewers into water bodies across the globe, finally flowing into the ocean and remaking the chemistry of our largest commons at a planetary scale, where increasing synthetic hormone levels impact the fertility of humans, marine and terrestrial animals alike.[^ref39][^ref40]
 
 <param ve-image url="dv_drawing.jpg"
-       label=""
+       label="A new herbarium sheet enlarges the root to show its importance to the story of Dioscorea villosa around the globe."
        author="Kira Clingen, 2021."
-       region="-272,305,3275,2546">
+       region="127,2,3444,2917">
 
 On land, the plant’s success and distribution has also led to its critical risk, as habitat destruction and over harvesting threaten its existence. Dioscorea villosa is commonly harvested for reproductive supplements. The plant deteriorates rapidly after harvest, which privileges low-volume harvesters who supply small amounts, which increases the amount of patchy habitat destruction.[^ref41] *Dioscorea villosa*, and the industry that emerged from Marker’s first proof that progesterone could be synthesized from the genus, has reshaped human life on Earth across scales. 
 
 <param ve-image url="dv_drawing.jpg"
-       label=""
+       label="The lines extending from the tuber can be read as roots flowing from the tuber, or as rivers flowing into the ocean. The juxtaposition of scales shows the impact that the plant has had across the globe."
        author="Kira Clingen, 2021."
-       region="-272,305,3275,2546">
+       region="348,1904,2975,2520">
 
 Despite the transformation of the plant from a weedy vine growing on roadsides and in deep thickets to an influential commodity, traded for the chemicals in its roots, western botanists continue to represent *Dioscorea* as a leafy specimen on herbaria sheets. This kind of botanical representation, for a plant that has been at the center of bioprospecting campaigns for almost a century, fails to communicate the ongoing entanglement of a plant exploited, not for botanical interest, but economic gain. By redrawing the plant with its attendant agents - from the mortal and pestle that indigenous women used to create medicine, to the trowels used by Marker to collect the root, to the laboratory equipment used to isolate diosgenin, and the birth control pill that resulted from Marker’s experiments in the genus, with diosgenin flowing from its roots to the global oceans, we understand the reach of the plant, from the eastern United States around the globe. 
 
 <param ve-image url="dv_drawing.jpg"
-       label=""
+       label="Each character on the herbarium sheet graphically represents one aspect of the complex evolution of Dioscorea."
        author="Kira Clingen, 2021."
-       region="-272,305,3275,2546">
+       region="127,2,3444,2917">
 
 ### References
 
