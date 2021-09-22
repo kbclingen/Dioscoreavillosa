@@ -5,7 +5,7 @@
        author="Kira Bre Clingen"
        banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/7/7d/Dioscorea_bulbifera_%28the_air_potato%29_06852.jpg" 
        layout="vertical"
-       quality="gray">
+       quality=gray>
 
 The slender leaves of a specimen of *Dioscorea villosa* are pressed, preserved, labeled and stored in the Harvard University Herbaria, collected in Massachusetts in 1903.[^ref1] The winged seedpods are flattened between the leaves, and the vine dried, turning from a bright, light green to faded brown. Though the herbaceous plant, informally known as wild yam, can grow up to 30 feet, the herbarium sample is much shorter, coiled onto itself to fit onto the standardized paper for botanists and other researchers to study.
 
