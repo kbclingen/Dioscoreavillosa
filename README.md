@@ -50,10 +50,9 @@ Bioprospecting emerged in the 18th century as European imperialist states and co
 Botanists like Plumier relied on local knowledge to collect samples and knowledge of plant species to catalog, and even to inform the nomenclature they used to classify plants. Plumier named the genus *Dioscorea* after the Greek physician and botanist Dioscorides, who published his work on medicinal plants in *De materia media*, an herbal encyclopedia that was used in European medicine from its creation in 50 AD.[^ref9]
 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/43/Dioscoride.jpg"
-       label="An edition of De materia media, written by the Greek physician Dioscorides, published in 1584."
+       label="An edition of De materia media, written by the Greek physician Dioscorides, published in 1549."
+       region="-132,2,662,561">
        
-       
-
 American botanists continued to extract information from indigenous groups and publish about the medicinal uses of the species, and, like the Badianus manuscript, to focus on the uses of the roots. In an 1887 volume of *American medicinal plants: an illustrated and descriptive guide to the American plants used as homeopathic remedies: their history, preparation, chemistry and physical effects*. Charles Frederick Millspaugh identifies additional uses of the plant including treating bilious colic, which we know as gallstones, as a way to induce sweating, cause vomiting and treat coughs. It’s also noted to treat ‘dysmennorhea’ and kindred afflictions, which we know as menstrual cramps.[^ref10] Milspaugh offers a method to extract a tonic from the roots, which are abundant and easy to collect. [^ref11]
        
 <param ve-image url="dv_millspaugh.PNG"
@@ -66,7 +65,7 @@ Otto Wall recorded the plant’s uses by indigenous communities in temperate cli
 <param ve-image url="dv_wall.PNG"
        label="Otto Wall documented the plant's uses by the indigenous Meskwaki People."
        author="Wall, Otto, 1927."
-       region="-272,305,3275,2546">
+       region="-82,-42,588,498">
 
 While botanists had written extensively about the medicinal uses of *Dioscorea villosa* throughout the 18th and 19th centuries, the exploitation of Dioscorea, and other species in the genus, accelerated during the 20th century, as western nations raced to develop sex hormones. *Dioscorea villosa*, native to the eastern United States, would become a central figure in the global development of the birth birth control pill, which relied on massive biopiracy operations in Mexico, where the plant’s medicinal uses were first recorded. 
 <param ve-image url="dv_map1.jpg"
