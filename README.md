@@ -58,7 +58,7 @@ American botanists continued to extract information from indigenous groups and p
 <param ve-image url="dv_millspaugh.PNG"
        label="Charles Millspaugh's illustration of the vine."
        author="Millspaugh, Charles Frederick, 1887."
-       region="-272,305,3275,2546">
+       region="-160,-1,802,679">
        
 
 Otto Wall recorded the plant’s uses by indigenous communities in temperate climates. In the Great Lakes Region on Meskwaki land, the Meskwaki Nation used the plant to reduce pain during childbirth, and as an analgesic and reproductive aid.[^ref12]
@@ -68,10 +68,10 @@ Otto Wall recorded the plant’s uses by indigenous communities in temperate cli
        region="-82,-42,588,498">
 
 While botanists had written extensively about the medicinal uses of *Dioscorea villosa* throughout the 18th and 19th centuries, the exploitation of Dioscorea, and other species in the genus, accelerated during the 20th century, as western nations raced to develop sex hormones. *Dioscorea villosa*, native to the eastern United States, would become a central figure in the global development of the birth birth control pill, which relied on massive biopiracy operations in Mexico, where the plant’s medicinal uses were first recorded. 
-<param ve-image url="dv_map1.jpg"
-       label="A map of North America showing documented use of Dioscorea villosa by indigenous people, as noted in the Badianus Manuscript and Otto Wall's Handbook of Pharmacognosy in 1927."
+<param ve-image url="dv_map2.jpg"
+       label="While Wall documented the ways in which the Meskwaki Peoples used Dioscorea villosa in the early twentieth century, the race for sex hormones brought American bioprospectors into Mexico in the latter half of the century."
        author="Kira Clingen, 2021."
-       region="-272,305,3275,2546">
+       region="1171,114,3341,2774">
 
 ### Degradation: From Marker's lab to the Mexican landscape 
 In 1938, Russell E. Marker, a chemist working at Pennsylvania State University, successfully synthesized progesterone, a sex hormone, from sapogenin, a naturally occurring compound in sarsaparilla, a herbaceous plant native to the eastern United States where Marker was working. Progesterone had been discovered by doctors earlier in the 1930s, who used the sex hormone to treat menstrual disorders and pregnancies. The process, the Marker degradation, was named for him.[^ref13] But synthesizing progesterone from sarsaparilla was prohibitively expensive, and Marker knew he needed a different natural resource to make progesterone more affordable. The answer came to him from Japanese colleagues, who discovered a compound called diosgenin, which they extracted from the roots of Dioscorea tokoro, a wild yam species abundant in eastern Asia.[^ref14] Their paper sent Marker to the Penn State library to study botany in search of a widely distributed source of diosgenin. Marker found his answer outside his laboratory in the roots of *Dioscorea villosa*.
