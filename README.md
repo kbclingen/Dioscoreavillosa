@@ -16,7 +16,7 @@ The slender leaves of a specimen of *Dioscorea villosa* are pressed, preserved, 
        
 While the plant is native and widespread across the eastern United States, the roots, which are omitted from the sample, have been used in indigenous and modern medicine for hundreds of years, and have reshaped landscapes and water bodies across the globe.[^ref2] 
 
-<param ve-image url="dv_rangemap.jpg"
+<param ve-image url="dv_rangemap-01.jpg"
        label="Dioscorea villosa is hardy across the eastern United States."
        author="Kira Clingen"
        region="-1248,332,6240,5285">
