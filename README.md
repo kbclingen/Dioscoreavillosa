@@ -1,7 +1,7 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="Into the Wild Yam Thicket: the ongoing entanglement of Dioscorea villosa and Reproductive Health"
+       title="The Roots of the Pill: Bioprospecting for Wild Yam"
        author="Kira Bre Clingen"
        banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/7/7d/Dioscorea_bulbifera_%28the_air_potato%29_06852.jpg" 
        layout="vertical"
