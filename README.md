@@ -11,8 +11,7 @@ The slender leaves of a specimen of *Dioscorea villosa* are pressed, preserved, 
 
 <param ve-image url="dv_herbarium.jpg"
        label="Dioscorea specimen collected in western Massachusetts by V.E. Hervey and stored in the Harvard University Herbaria."
-       author="Hervey, V.E., 1903"
-       region="-272,305,3275,2546">
+       author="Hervey, V.E., 1903">
 
 While the plant is native and widespread across the eastern United States, the roots, which are omitted from the sample, have been used in indigenous and modern medicine for hundreds of years, and have reshaped landscapes and water bodies across the globe.[^ref2] 
 
