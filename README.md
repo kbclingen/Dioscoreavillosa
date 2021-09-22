@@ -22,14 +22,14 @@ Long before the herbaria sample was plastered to a paper sheet, in 1552, Jacobo 
 <param ve-image url="dv_codex1.jpg"
        label="Medicinal macayelli, xoxouhqui chalchiutl and tlaquilin represented from roots to leaves in the Badianus manuscript."
        author="de Grado, Jacobo, 1552"
-       region="1,0,395,335">
+       region="-80,-49,985,834">
 
 The roots and leaves are drawn with an equal emphasis. From its representation, the reader understands that its medicinal qualities derive from the whole plant, not only what’s visible above ground. 
 
 <param ve-image url="dv_codex2.jpg"
        label="Dioscorea villosa as represented in the Badianus Manuscript."
        author="de Grado, Jacobo, 1552"
-       region="1,0,395,335">
+       region="-147,179,737,624">
 
 ### What's in a Family Name? 
 *Dioscorea villosa* was used by indigenous peoples in central America for centuries before it was catalogued by colonial botanists. In 1796, J.R. Forster published his *Flora Americae Septentrionalis*, which included *Dioscorea villosa* by name, noting a sample in Virginia.[^ref5] The genus *Dioscorea* itself was first named by colonizers. Charles Plumier, a French botanist, bioprospected the western Caribbean in 1703, and published his results, including species in the genus *Dioscorea* in *Nova plantarum americanum*.[^ref6]  
