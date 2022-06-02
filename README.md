@@ -1,17 +1,25 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="The Roots of the Pill: Bioprospecting the Genus Dioscorea" 
+       title="Wild Yam: The Rhizomes of the Pill" 
        author="Kira Bre Clingen"
        banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/7/7d/Dioscorea_bulbifera_%28the_air_potato%29_06852.jpg" 
        layout="vertical"
        quality=gray>
-
-The slender leaves of a specimen of *Dioscorea villosa* are pressed, preserved, labeled and stored in the Harvard University Herbaria, collected in Massachusetts in 1903.[^ref1] The winged seedpods are flattened between the leaves, and the vine dried, turning from a bright, light green to faded brown. Though the herbaceous plant, informally known as wild yam, can grow up to 30 feet, the herbarium sample is much shorter, coiled onto itself to fit onto the standardized paper for botanists and other researchers to study. 
+       
+The slender leaves of a specimen of *Dioscorea villosa* are pressed, preserved, labeled, and stored in the [Harvard University Herbaria](https://data.huh.harvard.edu/databases/specimen_search.php?mode=details&id=757842), collected in Massachusetts in 1903.[^ref1] The winged seedpods are flattened between the leaves, and the vine dried, turning from a bright, light green to faded brown. Though the herbaceous plant, informally known as wild yam, can grow up to 30 feet, the sample is much shorter, coiled onto itself to fit onto the standardized paper for botanists and other researchers to study.  This specimen exemplifies the limitation of the standard botanical herbarium sheet: the plant is desiccated, the stem is trimmed, and the roots and rhizomes, which are vital to the story of wild yam, are torn off. 
 
 <param ve-image url="dv_herbarium.jpg"
        label="Dioscorea specimen collected in western Massachusetts by V.E. Hervey and stored in the Harvard University Herbaria."
        author="Hervey, V.E., 1903"
+       region="-1248,332,6240,5285">
+       
+Rhizomes are often confused with roots. They are found underground, but they are stems. The rhizome grows underground horizontally, and sends out roots and shoots from nodes. Rhizomes allow plants to reproduce asexually from pieces of the rhizone containing a node. Many familiar plants, including bamboo, ginger, hops, and wild yams include a subterranean rhizome.[^ref2]
+
+<param ve-image url="Barbasco_root.jpg"
+       label="The rhizome of a wild yam in the Dioscorea genus. Image credit: Tiia Monto, 2017."
+       author="Tiia Monto, 2017"
+       source="https://commons.wikimedia.org/wiki/File:Barbasco_root.jpg"
        region="-1248,332,6240,5285">
        
 While the plant is native and widespread across the eastern United States, the roots, which are omitted from the sample, have been used in indigenous and modern medicine for hundreds of years, and, through acts of bioprospecting in the twentieth century, have reshaped landscapes and water bodies across the globe.[^ref2] 
