@@ -204,7 +204,9 @@ Despite the transformation of the plant from a weedy vine growing on roadsides a
        author="Kira Clingen, 2021."
        fit="constrain">
 
+### Acknowledgements
 
+The proposed herbarium sheet was developed in Thinking Through Soil, a seminar taught by Seth Denizen at the Harvard University Graduate School of Design in Spring 2021. Sam Naylor assisted in drawing the template format for the herbarium sheet.
 
 ### References
 
