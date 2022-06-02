@@ -71,11 +71,14 @@ American botanists continued to extract information from indigenous groups  and 
        region="-160,-1,802,679">
 
 Otto Wall recorded how indigenous communities used the plant in temperate climates in 1917. 
+
 <param ve-image url="dv_wall.PNG"
        label="Otto Wall documented the plant's uses by the indigenous Meskwaki People."
        author="Wall, Otto, 1927."
        region="-82,-42,588,498">
+       
 In the Great Lakes Region on Meskwaki land, the Meskwaki Nation used the plant to reduce pain during childbirth, and as an analgesic and reproductive aid. [^ref12]
+
 <param ve-image url="dv_map2-01-01.jpg"
        label="While Wall documented the ways in which the Meskwaki Peoples used Dioscorea villosa in the early twentieth century, the race for sex hormones brought American bioprospectors into Mexico in the latter half of the century."
        author="Kira Clingen, 2021."
@@ -154,33 +157,33 @@ Plants in the *Dioscorea* genus were planted around the world for economic gain 
 
 ### Re-Rooting *Dioscorea villosa*
 
-Situating the plant in this entanglement of reproductive hormones, policy and moving into the present, the story of *Dioscorea villosa* and its role in the development of the birth control pill becomes more complex. 
+*Dioscorea villosa*, and the industry that emerged from Marker’s first proof that progesterone could be synthesized from the genus, has reshaped human life on Earth. Situating  the plant in this entanglement of reproductive hormones, policy and moving into the present, the story of *Dioscorea villosa* and its role in the development of the birth control pill becomes more complex. Global use of the pill has come with side effects, including an influx of progesterone and estrogen, another sex hormone used in many birth control pills, into municipal water systems, which are discharged in the absence of reverse osmosis systems. The estrogen flows through sewers into water bodies across the globe, finally flowing into the ocean and remaking the chemistry of our largest commons at a planetary scale, where increasing synthetic hormone levels impact the fertility of humans as well as marine and terrestrial animals alike.[^ref34][^ref35]  
 
 <param ve-image url="symbols-08.jpg"
        label="The story of Dioscorea villosa cannot be adequately represented by a static herbarium sheet that only looks at the preserved physical plant. The narrative around wild yam root involves a fascinating array of actors and agents, both human and non-human."
        author="Kira Clingen"
        region="-176,0,7491,6344">
 
-Global use of the pill has come with side effects, including an influx of progesterone and estrogen, another sex hormone used in many birth control pills, into municipal water systems, which are discharged in the absence of reverse osmosis systems. The estrogen flows through sewers into water bodies across the globe, finally flowing into the ocean and remaking the chemistry of our largest commons at a planetary scale, where increasing synthetic hormone levels impact the fertility of humans, marine and terrestrial animals alike.[^ref39][^ref40]
+On land, the plant’s success and distribution has also led to its critical risk, as habitat destruction and over harvesting threaten its existence. *Dioscorea villosa*, as well as other *Dioscorea* species, are commonly harvested for reproductive supplements. The plant deteriorates rapidly after harvest, which privileges low-volume harvesters who supply small amounts, which increases the amount of patchy habitat destruction.[^ref36]  
 
 <param ve-image url="dv_drawing.jpg"
        label="A new herbarium sheet enlarges the root to show its importance to the story of Dioscorea villosa around the globe."
        author="Kira Clingen, 2021."
        region="127,2,3444,2917">
 
-On land, the plant’s success and distribution has also led to its critical risk, as habitat destruction and over harvesting threaten its existence. Dioscorea villosa is commonly harvested for reproductive supplements. The plant deteriorates rapidly after harvest, which privileges low-volume harvesters who supply small amounts, which increases the amount of patchy habitat destruction.[^ref41] *Dioscorea villosa*, and the industry that emerged from Marker’s first proof that progesterone could be synthesized from the genus, has reshaped human life on Earth across scales. 
+Despite the transformation of the plant from a weedy vine growing on roadsides and in deep thickets to an influential commodity, traded for the chemicals in its rhizomes, herbarium sheets following long-established botanical conventions continue to represent *Dioscorea* as a leafy specimen on herbaria sheets devoid of underground life and its broader impact. This kind of botanical representation, for a plant that has been at the center of bioprospecting campaigns for almost a century, fails to communicate the ongoing entanglement of a plant exploited for economic gain .
 
 <param ve-image url="dv_drawing.jpg"
        label="The lines extending from the tuber can be read as roots flowing from the tuber, or as rivers flowing into the ocean. The juxtaposition of scales shows the impact that the plant has had across the globe."
        author="Kira Clingen, 2021."
        region="348,1904,2975,2520">
 
-Despite the transformation of the plant from a weedy vine growing on roadsides and in deep thickets to an influential commodity, traded for the chemicals in its roots, western botanists continue to represent *Dioscorea* as a leafy specimen on herbaria sheets. This kind of botanical representation, for a plant that has been at the center of bioprospecting campaigns for almost a century, fails to communicate the ongoing entanglement of a plant exploited, not for botanical interest, but economic gain. By redrawing the plant with its attendant agents - from the mortal and pestle that indigenous women used to create medicine, to the trowels used by Marker to collect the root, to the laboratory equipment used to isolate diosgenin, and the birth control pill that resulted from Marker’s experiments in the genus, with diosgenin flowing from its roots to the global oceans, we understand the reach of the plant, from the eastern United States around the globe. 
+A new, complementary herbarium sheet is needed to express the complexity of the scientific revolution that Marker’s degradation with *Dioscorea villosa* began over half a century ago. By redrawing the plant with its attendant agents - from the mortar and pestle that indigenous women used to create medicine, to the trowels used by Marker to collect the root, to the laboratory equipment used to isolate diosgenin, and the birth control pill that resulted from Marker’s experiments with the genus, with diosgenin flowing from its roots to the global oceans – we understand the reach of the plant, from the eastern United States to the entire globe.
 
 <param ve-image url="dv_drawing.jpg"
        label="Each character on the herbarium sheet graphically represents one aspect of the complex evolution of Dioscorea."
        author="Kira Clingen, 2021."
-       region="-1189,0,5950,5039">
+       fit="contain">
 
 ### References
 
