@@ -86,14 +86,20 @@ For example, he noted how, in the Great Lakes Region on Meskwaki land, the Meskw
        
 While botanists had written extensively about the medicinal uses of *Dioscorea villosa* throughout the eighteenth and nineteenth centuries, the exploitation of *Dioscorea*, and other species in the genus, accelerated during the twentieth century, as western nations raced to develop sex hormones. *Dioscorea villosa*, native to the eastern United States, would become a central figure in the global development of the birth control pill. This development relied on massive biopiracy operations in Mexico, where the plant’s medicinal uses were first recorded in Early Modern period documents. 
 
+<param ve-image url="Dioscorea_villosa_vine.jpg"
+       label="Dioscorea villosa in the wild in its native eastern United States. Image credit: Bruce Winter, 2019."
+       author="Bruce Winter, 2019"
+       license ="CC-3.0"
+       fit="contain">
 
 ### Modern Chemistry: Inventing the Marker Degradation
 
 In 1938, Russell E. Marker, a chemist working at Pennsylvania State University, successfully synthesized progesterone, a sex hormone, from sapogenin, a naturally occurring compound in sarsaparilla, an herbaceous plant native to the eastern United States where Marker was working. Progesterone had been discovered by doctors earlier in the 1930s, who used the sex hormone to treat menstrual disorders and pregnancies. The process to synthesize progesterone, the Marker degradation, was named for him.[^ref13] But synthesizing progesterone from sarsaparilla was prohibitively expensive, and Marker knew he needed a different source to make progesterone more affordable. The answer came to him from Japanese colleagues, who discovered a compound called diosgenin, which they extracted from the roots of *Dioscorea tokoro*, a wild yam species abundant in eastern Asia.[^ref14] Their paper sent Marker to the Penn State library to study botany in search of a widely distributed source of diosgenin. Marker found his answer outside his laboratory in the roots of *Dioscorea villosa*.  
 
-<param ve-image url="Dioscorea_villosa_vine.jpg"
-       label="Dioscorea villosa in the wild in its native eastern United States. Image credit: Bruce Winter, 2019."
-       author="Bruce Winter, 2019"
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/9f/Progesterone-2D-skeletal.png"
+       label="The chemical structure of Progesterone, which can be synthesized from sapogenin or diosgenin."
+       license="CC-3.0"
+       author="Benjah-bmm27, 2006."
        fit="contain">
 
 Marker was not a botanist, nor was he particularly interested in plants. Yet, in 1940, he published that he had successfully extracted “the powdered rhizomes of *Dioscorea villosa* with a procedure similar to that used in the isolation of sarsapogenin.”[^ref15] He compared a sample of diosgenin that his Japanese colleagues sent, produced from Dioscorea tokoro, to confirm his results from *Dioscorea villosa*. He successfully produced progesterone from diosgenin that same year. Marker’s experiments confirmed that the genus *Dioscorea* was a readily available source of diosgenin, which could revolutionize the expensive production of progesterone. 
@@ -128,11 +134,11 @@ World War II shortened Marker’s first collecting trip, and he returned in 1942
 
 Marker had committed an act of biopiracy in bringing the plant back to the United States. He entered the sovereign state of Mexico with an introductory letter expressing his interest in “working on some hormone projects intimately related to the National Defense [of the United States].”[^ref22] He viewed the plant as a natural resource for drug development, without consideration of the deep-rooted history or indigenous traditions associated with the plant.[^ref23] The species were interchangeable, except for the amount of diosgenin in their roots.[^ref24]   
 
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/6e/Barbasco_root.jpg"
-       label="A rhizome similar to the specimen Marker brought to America. Image by Tiia Monto, 2015."
+<param ve-image url="https://commons.wikimedia.org/wiki/File:Dioscorea_mexicana_001.jpg"
+       label="Marker isolated *Dioscorea mexicana* as a specimen that could be separated from the broader Mexican landscapes and peoples that cultivated the root."
        license="CC-3.0"
-       author="Tiia Monto, 2015."
-       region="-253,271,1269,1075">
+       author="Amada44,2011."
+       fit="constrain">
 
 In the following decades, the Mexican steroid industry reshaped the Mexican landscape. Over the years, Marker collected twenty forms of Dioscorea throughout Mexico. He readily abandoned *Dioscorea mexicana* for *Dioscorea composita*, known locally as *barbasco*, for its higher diosgenin content.[^ref25] Marker created a set of operations to cultivate and collect wild yams, test the rhizome and produce diosgenin.[^ref26] At its height, Syntex employed 25,000 *campesinos*, Mexican farmers, to cultivate and harvest wild yam and 3,000 people to produce diosgenin.  An infrastructure of roads and distribution facilities were established across Veracruz to facilitate the exploitation of barbasco for the pharmaceutical trade.[^ref27] The farmers collected 75,000 tons of roots per year to use in the production of the birth control pill, which was developed over two decades after Marker originally discovered *Dioscorea* as an economic source of diosgenin to produce progesterone.[^ref28]  
 
@@ -149,11 +155,24 @@ In 1951, Carl Djerassi, working at Syntex, developed a synthetic form of progest
 <param ve-image url="https://tile.loc.gov/storage-services/service/pnp/ppmsca/71700/71792v.jpg"
        label="Birth control pills arrayed at a pharmacy in 1968 as the pill became readily available to women across the globe."
        author="Marions Trikosko, 1968. Library of Congress."
+       license="no copyright, produced by USA government"
        region="22,-54,941,797">
        
 The clinical trials for the pill could not be conducted at MIT in Massachusetts, where birth control studies were banned, without incurring a $1000 fine per trial . Instead, the team began medical trials of the pill in Puerto Rico, which have since been condemned for their lack of informed consent by today’s standards.[^ref31] 
 
+<param ve-image url="https://tile.loc.gov/storage-services/service/pnp/ppmsca/71700/71792v.jpg"
+       label="The pills were tested outside of the United States before they were approved for purchase and use."
+       author="Marions Trikosko, 1968. Library of Congress."
+       license="no copyright, produced by USA government"
+       region="22,-54,941,797">
+
 Plants in the *Dioscorea* genus were planted around the world for economic gain as lab tests began through the late 1950s, with scientists breeding tubers with higher diosgenin concentrations to use to manufacture the pill. Clinical studies in Sri Lanka, the United States, Haiti, Hong Kong, Japan and Mexico began in 1960, and by 1961 half a million women were using the pill to regulate menstruation and pregnancy.[^ref32] Today, the pill is available across the globe, and is one of the most popular forms of contraceptive, despite ongoing attempts to regulate its usage.[^ref33]  
+
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/54/Tubers_of_yam_at_Sitting.jpg"
+       label="*Dioscorea* rhizomes for sale in Ghana."
+       license="CC-3.0"
+       author="Dnshitobu, 2022."
+       fit="constrain">
 
 ### Re-Rooting *Dioscorea villosa*
 
@@ -186,11 +205,6 @@ Despite the transformation of the plant from a weedy vine growing on roadsides a
        fit="constrain">
 
 
-
-<param ve-image url="dv_drawing.jpg"
-       label="Each character on the herbarium sheet graphically represents one aspect of the complex evolution of Dioscorea."
-       author="Kira Clingen, 2021."
-       fit="contain">
 
 ### References
 
