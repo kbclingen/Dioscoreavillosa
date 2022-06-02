@@ -134,8 +134,8 @@ World War II shortened Marker’s first collecting trip, and he returned in 1942
 
 Marker had committed an act of biopiracy in bringing the plant back to the United States. He entered the sovereign state of Mexico with an introductory letter expressing his interest in “working on some hormone projects intimately related to the National Defense [of the United States].”[^ref22] He viewed the plant as a natural resource for drug development, without consideration of the deep-rooted history or indigenous traditions associated with the plant.[^ref23] The species were interchangeable, except for the amount of diosgenin in their roots.[^ref24]   
 
-<param ve-image url="https://commons.wikimedia.org/wiki/File:Dioscorea_mexicana_001.jpg"
-       label="Marker isolated *Dioscorea mexicana* as a specimen that could be separated from the broader Mexican landscapes and peoples that cultivated the root."
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/06/Dioscorea_mexicana_001.jpg"
+       label="Marker isolated Dioscorea mexicana as a specimen that could be separated from the broader Mexican landscapes and peoples that cultivated the root."
        license="CC-3.0"
        author="Amada44,2011."
        fit="constrain">
@@ -169,7 +169,7 @@ The clinical trials for the pill could not be conducted at MIT in Massachusetts,
 Plants in the *Dioscorea* genus were planted around the world for economic gain as lab tests began through the late 1950s, with scientists breeding tubers with higher diosgenin concentrations to use to manufacture the pill. Clinical studies in Sri Lanka, the United States, Haiti, Hong Kong, Japan and Mexico began in 1960, and by 1961 half a million women were using the pill to regulate menstruation and pregnancy.[^ref32] Today, the pill is available across the globe, and is one of the most popular forms of contraceptive, despite ongoing attempts to regulate its usage.[^ref33]  
 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/54/Tubers_of_yam_at_Sitting.jpg"
-       label="*Dioscorea* rhizomes for sale in Ghana."
+       label="Dioscorea rhizomes for sale in Ghana."
        license="CC-3.0"
        author="Dnshitobu, 2022."
        fit="constrain">
@@ -208,11 +208,11 @@ Despite the transformation of the plant from a weedy vine growing on roadsides a
 
 ### References
 
-[^ref1]: E.W. Hervey. North America: US and Canada (Region): United States of America: Massachusetts: Bristol County: New Bedford. 1903.
-[^ref2]: North American Native Plant Society. “*Dioscorea villosa*, Wild yam.” North American Native Plant Society. Accessed March 27, 2021. 
-[^ref3]: Tucker, Arthur O. and Jules Janick. *Flora of the Codex Cruz-Badianus*. Cham: Springer International Publishing, 2020.
-[^ref4]: Tucker, *Flora*. 
-[^ref5]: Forster, J.R. *Flora Americae Septentrionalis*. Boston: B. White, 1771.
+[^ref1]: E.W. Hervey. *North America: US and Canada (Region): United States of America: Massachusetts: Bristol County: New Bedford.* 1903.
+[^ref2]: Encyclopedia Britannica. “Rhizome.” *Encyclopedia Britannica* 2020. Accessed May 29, 2022. 
+[^ref3]: North American Native Plant Society. “*Dioscorea villosa*, Wild yam.” *North American Native Plant Society*. Accessed March 27, 2021. 
+[^ref4]: Tucker, Arthur O. and Jules Janick. *Flora of the Codex Cruz-Badianus*. Cham: Springer International Publishing, 2020.
+[^ref5]: Tucker, *Flora*. 
 [^ref6]: Plumier, Charles. *Nova plantarum americanum*. Paris: Regis and Regix Scientiatum Academiae Typrographum, 1703.
 [^ref7]: Delgado, Gian Carlo. “Biopiracy and Intellectual Property as the Basis for Biotechnological Development: The Case of Mexico.” *International Journal of Politics, Culture and Society* 16, no. 2 (2002): 297-318.
 [^ref8]: Schiebinger, Londa. *Plants and Empire: Colonial Bioprospecting in the Atlantic World*. Cambridge, MA: Harvard University Press, 2004.
@@ -225,27 +225,23 @@ Despite the transformation of the plant from a weedy vine growing on roadsides a
 [^ref15]: Marker, R.E., D.L. Turner, P.R. Ulshafer. “Sterols. CIV. Diosgenin from certain America plants.” *Journal of the American Chemical Society* 62 (September 1940): 2542-2543. 
 [^ref16]: Russell Earl Marker, interviewed by Sturchio, Jeffrey L. in Pennsylvania State University on April 17, 1987. Philadelphia: Science History Institute, n.d. Oral History Transcript 0068. 
 [^ref17]: Marker, Russell E., R.B. Wagner and Paul R. Ulshafer. “Sterols. CXLVI. Sapogenins. LX. Some New Sources of Diosgenin.” *Journal of American Chemical Society* 64 (1942):1283-1285. 
-[^ref18]: Lehmann, Pedro. “Early History of Steroid Chemistry in Mexico: the story of three remarkable men.” *Steroids* 57, no. 8 (1992): 403-408.  
-[^ref19]: Laveaga, *Jungle*. 
-[^ref20]: Lehmann, "Steroid."
-[^ref21]: Govaerts, R., Wilkin P. and Saunders, R.M.K. *World Checklist of Dioscoreales:Yams and their allies*. Kew: The Board of Trustees of the Royal Botanic Gardens, 2007. 
+[^ref18]: Lehmann, Pedro. “Early History of Steroid Chemistry in Mexico: the story of three remarkable men.” *Steroids* 57, no. 8 (1992): 403-408; Laveaga, *Jungle*.   
+[^ref19]: Lehmann, "Steroid."
+[^ref20]: Govaerts, R., Wilkin P. and Saunders, R.M.K. *World Checklist of Dioscoreales:Yams and their allies*. Kew: The Board of Trustees of the Royal Botanic Gardens, 2007; Laveaga, *Jungle*.
+[^ref21]: Lehmann, "Steroid," American Chemical Society, *Marker.*
 [^ref22]: Laveaga, *Jungle*. 
-[^ref23]: Lehmann, "Steroid."
-[^ref24]: American Chemical Society, "Marker." 
-[^ref25]: Laveaga, *Jungle*.
-[^ref26]: Hayden, Cory. *When Nature Goes Public: The Making and Unmaking of Bioprospecting in Mexico*. Princeton: Princeton University Press, 2020. 
-[^ref27]: Gereffi, Gary. *The Pharmaceutical Industry and Dependency in the Third World.* Princeton: Princeton University Press, 2017. 
+[^ref23]: Marker successfully synthesized progesterone from Dioscorea mexicana. Yet, he failed to secure American pharmaceutical interest so he moved to Veracruz and cofounded Syntex Laboratories in Mexico City in 1944. This marked the beginning of the Mexican steroid industry, which would shape the global industry for years to come. Marker himself was only involved in Syntex for a few years. He permanently moved back to the United States in 1956 after the United States established an embargo against Mexico, accusing the Mexican government and Syntex of monopolizing the market for diosgenin, the profitable source of which was squarely within Mexico’s borders. Hayden, *Nature*. 
+[^ref24]: Hayden, Cory. *When Nature Goes Public: The Making and Unmaking of Bioprospecting in Mexico*. Princeton: Princeton University Press, 2020; Gereffi, Gary. *The Pharmaceutical Industry and Dependency in the Third World*. Princeton: Princeton University Press, 2017.
+[^ref25]: Marker, "Oral History."
+[^ref26]: Laveaga, *Jungle*. 
+[^ref27]: Chapela, Ignacio. “Biodiversity in the Age of Information: A Critical Analysis of Conservation Initiatives Associated with the Discovery of New Pharmaceuticals.” In *Biodiversity, Biotechnology, and Sustainable Development in Health and Agriculture: Emerging Connections*. Washington, D.C.: Panamerian Health Organization, 1996.
 [^ref28]: Marker, "Oral History."
-[^ref29]: Laveaga, *Jungle*.
-[^ref30]: Chapela, Ignacio. “Biodiversity in the Age of Information: A Critical Analysis of Conservation Initiatives Associated with the Discovery of New Pharmaceuticals.” In *Biodiversity, Biotechnology, and Sustainable Development in Health and Agriculture: Emerging Connections*. Washington, D.C.: Panamerian Health Organization, 1996.
+[^ref29]: Syntex. *Syntex Annual Report*. Mexico City: Syntex Laboratorios, 1963.
+[^ref30]: Planned Parenthood. *The Birth Control Pill: A History*. New York: Planned Parenthood, 2005.  
 [^ref31]: Marker, "Oral History." 
-[^ref32]: Hayden, *Nature*. 
-[^ref33]: Syntex. *Syntex Annual Report*. Mexico City: Syntex Laboratorios, 1963.
-[^ref34]: Planned Parenthood. *The Birth Control Pill: A History*. New York: Planned Parenthood, 2005.  
-[^ref35]: Watkins, Elizabeth Siegel. *On the pill: a social history of oral contraceptives, 1950-1970*. Baltimore: John Hopkins University press, 1998. 
-[^ref36]: Planned Parenthood, *Birth Control*.
-[^ref37]: Zava. “Contraception around the world: interactive map.” *Online Doctor*. May 5, 2014. Accessed online April 19, 2021.
-[^ref38]: Beauchamp, Zack. “Here’s a map of the countries where the pill is fully subsidized (it includes Iran).” *Vox*. June 30, 2014. Accessed April 19, 2021. 
-[^ref39]: Caldwell et al. “An Assessment of Potential Exposure and risk from Estrogens in Drinking Water.” *Environmental Health Perspectives* 118, no. 3 (2010): 338-344.
-[^ref40]: Fisher, Carl, Claudia Martins, Ed George and Pranathi Perati. “Expanded Analysis of Human Hormones in Drinking Water Using Solid-Phase Extraction and Liquid Chromatography Tandem Mass Spectronomy.” *ThermoFisher Scientific*. 2009.
-[^ref41]: Pengelly, Andrew. “Dioscorea villosa L. Wild yam.” *Appalachian Plant Monographs*. Tai Sophia Institute Appalachian Center for Ethnobotanical Studies. 2011. 
+[^ref32]: Syntex. *Syntex Annual Report*. Mexico City: Syntex Laboratorios, 1963.
+[^ref33]: Zava. “Contraception around the world: interactive map.” Online Doctor. May 5, 2014. Accessed online April 19, 2021; Beauchamp, Zack. “Here’s a map of the countries where the pill is fully subsidized (it includes Iran).” *Vox*. June 30, 2014. Accessed April 19, 2021.
+[^ref34]: Caldwell et al. “An Assessment of Potential Exposure and risk from Estrogens in Drinking Water.” *Environmental Health Perspectives* 118, no. 3 (2010): 338-344. 
+[^ref35]: Fisher, Carl, Claudia Martins, Ed George and Pranathi Perati. “Expanded Analysis of Human Hormones in Drinking Water Using Solid-Phase Extraction and Liquid Chromatography Tandem Mass Spectronomy.” *ThermoFisher Scientific*. 2009.
+[^ref36]: Pengelly, Andrew. “Dioscorea villosa L. Wild yam.” *Appalachian Plant Monographs*. Tai Sophia Institute Appalachian Center for Ethnobotanical Studies. 2011. 
+ 
